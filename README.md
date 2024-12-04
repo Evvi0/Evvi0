@@ -7,3 +7,6 @@ Following this, my goal is to work in the cosmos, for the research and developme
 ## Connect with me 📞:
 [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">](https://www.linkedin.com/in/evan-ross2003/)
 
+## Languages and Tools:
+
+    
