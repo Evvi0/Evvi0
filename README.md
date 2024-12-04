@@ -7,6 +7,11 @@ Following this, my goal is to work in the cosmos, for the research and developme
 ## Connect with me 📞:
 [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">](https://www.linkedin.com/in/evan-ross2003/)
 
-## Languages and Tools:
-
+## Languages and Tools 🔨:
+- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=microsoftsqlserver&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
     
