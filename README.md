@@ -18,6 +18,9 @@ Following this, my goal is to work in the cosmos, for the research and developme
 ## Have a look around! 
 ### Projects:
 - 🌌 https://github.com/Evvi0/Astronomy--NeuralNet-Classification: A project that dives into the use of neural networks for a classification model. The model is based on the classifying of celestial bodies, which is one of my passions outside of data analytics.
+
 - 👻 https://github.com/Evvi0/ImageRecog-PokemonType: This project is a convoltional neural network image recognition model that can predict the type of a pokemon based on their image. It goes far into the steps and techniques involved in image recognition and also is themed based off of one of my hobbies.
+
 - 🍷  https://github.com/Evvi0/Sentiment-Analysis-Modelling: A sentiment analysis model. This model preidcts the sentiment of a wine description, based off of the polarity of each description. Using the model can predict whether the description is a positive review, or a negative one.
+
 - ✈️ https://github.com/Evvi0/Regression--Plane-Ticket-Price: A regression model that predicts the price of a plane ticket based off of multiple features. Soon to be added to my github will be a streamlit app that has this attached. It will allow for user input to predict their own plane ticket price.
