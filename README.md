@@ -5,8 +5,8 @@ I've always been huge into technology. Computers, components, data, and code hav
 Following this, my goal is to work in the cosmos, for the research and development of space travel and the deep understanding of the universe. Using what I've learned, and plan to learn, I want to work for a large space corporation and develop models and code to better understand what lies outside of our world. Some of my projects are posted, feel free to take a look. Im very eager to learn and grow within this field and excited to advance further.
 
 ## Education 📜:
-Data Analytics Certificate of Completion: LearningFuze, Irvine, CA
-Associates in Science: Ocean County College, Toms River, NJ
+- Data Analytics Certificate of Completion: LearningFuze, Irvine, CA
+- Associates in Science: Ocean County College, Toms River, NJ
 
 ## Connect with me 📞:
 [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">](https://www.linkedin.com/in/evan-ross2003/)
