@@ -28,3 +28,10 @@ Following this, my goal is to work in the cosmos, for the research and developme
 - 🍷  https://github.com/Evvi0/Sentiment-Analysis-Modelling: A sentiment analysis model. This model preidcts the sentiment of a wine description, based off of the polarity of each description. Using the model can predict whether the description is a positive review, or a negative one.
 
 - ✈️ https://github.com/Evvi0/Regression--Plane-Ticket-Price: A regression model that predicts the price of a plane ticket based off of multiple features. Soon to be added to my github will be a streamlit app that has this attached. It will allow for user input to predict their own plane ticket price.
+
+
+
+
+
+
+   [![Evvi0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evvi0)](https://github.com/Evvi0/github-readme-stats)
