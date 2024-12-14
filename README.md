@@ -34,4 +34,3 @@ Following this, my goal is to work in the cosmos, for the research and developme
 
 
 
-   [![Evvi0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evvi0)](https://github.com/Evvi0/github-readme-stats)
