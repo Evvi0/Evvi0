@@ -10,6 +10,7 @@ Following this, I would like to work for an innovative company that strives to m
   - 🍷  https://github.com/Evvi0/Sentiment-Analysis-Modelling: A sentiment analysis model. This model preidcts the sentiment of a wine description, based off of the polarity of each description. Using the model can predict whether the description is a positive review, or a negative one.
   - ✈️ https://github.com/Evvi0/Regression--Plane-Ticket-Price: A regression model that predicts the price of a plane ticket based off of multiple features. Soon to be added to my         github will be a streamlit app that has this attached. It will allow for user input to predict their own plane ticket price.
 - Associates in Science: Ocean County College, Toms River, NJ
+  - 3.5 G.P.A.
 
 ## Connect with me 📞:
 [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">](https://www.linkedin.com/in/evan-ross2003/)
