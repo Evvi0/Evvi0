@@ -2,10 +2,13 @@
 ### Data Analyst from New Jersey
 I've always been huge into technology. Computers, components, data, and code have always been interests of mine. After diving into the world of data analytics and python in general, a whole new understanding interest and curiosity derives from basic use of everyday things. From the games I play, to the programs I use, I ask everyday, "How is this coded?" I love being able to think, and ponder ideas of how the most common pieces of technology are created and used. 
 
-Following this, my goal is to work in the cosmos, for the research and development of space travel and the deep understanding of the universe. Using what I've learned, and plan to learn, I want to work for a large space corporation and develop models and code to better understand what lies outside of our world. Some of my projects are posted, feel free to take a look. Im very eager to learn and grow within this field and excited to advance further.
+Following this, I would like to work for an innovative company that strives to make discoveries and new ideas. An example would be working in astronomy for the research and development of space travel and the deep understanding of the universe. Using what I've learned, and plan to learn, one of my goals would be to work for a large space corporation and develop models and code to better understand what lies outside of our world. But of course, I am open to any and all opportunities. Some of my projects are posted, feel free to take a look. I'm very eager to learn and grow within this field and excited to advance further.
 
 ## Education 📜:
 - Data Analytics Certificate of Completion: LearningFuze, Irvine, CA
+  Associated Projects include:
+  - 🍷  https://github.com/Evvi0/Sentiment-Analysis-Modelling: A sentiment analysis model. This model preidcts the sentiment of a wine description, based off of the polarity of each description. Using the model can predict whether the description is a positive review, or a negative one.
+  - ✈️ https://github.com/Evvi0/Regression--Plane-Ticket-Price: A regression model that predicts the price of a plane ticket based off of multiple features. Soon to be added to my         github will be a streamlit app that has this attached. It will allow for user input to predict their own plane ticket price.
 - Associates in Science: Ocean County College, Toms River, NJ
 
 ## Connect with me 📞:
@@ -24,10 +27,6 @@ Following this, my goal is to work in the cosmos, for the research and developme
 - 🌌 https://github.com/Evvi0/Astronomy--NeuralNet-Classification: A project that dives into the use of neural networks for a classification model. The model is based on the classifying of celestial bodies, which is one of my passions outside of data analytics.
 
 - 👻 https://github.com/Evvi0/ImageRecog-PokemonType: This project is a convoltional neural network image recognition model that can predict the type of a pokemon based on their image. It goes far into the steps and techniques involved in image recognition and also is themed based off of one of my hobbies.
-
-- 🍷  https://github.com/Evvi0/Sentiment-Analysis-Modelling: A sentiment analysis model. This model preidcts the sentiment of a wine description, based off of the polarity of each description. Using the model can predict whether the description is a positive review, or a negative one.
-
-- ✈️ https://github.com/Evvi0/Regression--Plane-Ticket-Price: A regression model that predicts the price of a plane ticket based off of multiple features. Soon to be added to my github will be a streamlit app that has this attached. It will allow for user input to predict their own plane ticket price.
 
 
 
