@@ -1,4 +1,4 @@
-# Hi ✌️, Im Evan Ross
+# Hi ✌️ I'm Evan Ross
 ### Data Analyst from New Jersey
 I've always been huge into technology. Computers, components, data, and code have always been interests of mine. After diving into the world of data analytics and python in general, a whole new understanding interest and curiosity derives from basic use of everyday things. From the games I play, to the programs I use, I ask everyday, "How is this coded?" I love being able to think, and ponder ideas of how the most common pieces of technology are created and used. 
 
